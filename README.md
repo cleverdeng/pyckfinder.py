@@ -1,7 +1,7 @@
 pyckfinder.py
 =============
 
-CKEditor for Python Tornado
+CKEditor CKFinder for Python Tornado
 
 使用:
 修改CKEditor 中的 config.js配置文件
